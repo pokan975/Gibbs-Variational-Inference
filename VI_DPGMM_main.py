@@ -6,7 +6,7 @@ Variational inference for DPMM, from the paper "Variational inference for
 Dirichlet process mixtures" by David Blei and Michael I. Jordan (2006)
 """
 # from CAVI_DPMM import VDPGMM
-from CAVI_DPGMM import DPMM
+from VI_DPGMM_func import DPMM
 import matplotlib.pyplot as plt
 import numpy as np
 import scipy.stats as st
