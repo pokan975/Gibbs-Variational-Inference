@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: William
+@author: Po-Kan (William) Shih
+@advisor: Dr.Bahman Moraffah
 CAVI module for DP-GMM
 prior distributions:
 alpha ~ Gamma(s_1, s_2)
