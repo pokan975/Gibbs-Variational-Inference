@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: William
+@author: Po-Kan (William) Shih
+@advisor: Dr.Bahman Moraffah
 Variational inference for DPMM, from the paper "Variational inference for 
 Dirichlet process mixtures" by David Blei and Michael I. Jordan (2006)
 """
