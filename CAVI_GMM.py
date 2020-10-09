@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: William
+@author: Po-Kan (William) Shih
+@advisor: Dr.Bahman Moraffah
 Variational inference for univariate GMM, the update equations for phi, mu, 
 and s2 are in my onenote "VI for GMM"
 """
