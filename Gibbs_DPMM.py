@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: William
+@author: Po-Kan (William) Shih
+@advisor: Dr.Bahman Moraffah
 Gibbs sampling for DPMM
 this algorithms corresponds to the algo. 2 of Neal's paper 
 "Markov Chain Sampling Methods for Dirichlet Process Mixture Models"
